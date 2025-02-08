@@ -5,19 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b59c4c94-ab93-4fc2-b3ea-897158afd054" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinica_veterinaria/src/main/java/com/todocodeacademy/clinica_veterinaria/controller/AquafriendController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinica_veterinaria/src/main/java/com/todocodeacademy/clinica_veterinaria/controller/VipController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinica_veterinaria/src/main/java/com/todocodeacademy/clinica_veterinaria/model/Aquafriend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinica_veterinaria/src/main/java/com/todocodeacademy/clinica_veterinaria/model/Vip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinica_veterinaria/src/main/java/com/todocodeacademy/clinica_veterinaria/repository/IAquafriendRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinica_veterinaria/src/main/java/com/todocodeacademy/clinica_veterinaria/repository/IVipRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinica_veterinaria/src/main/java/com/todocodeacademy/clinica_veterinaria/service/AquafriendService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinica_veterinaria/src/main/java/com/todocodeacademy/clinica_veterinaria/service/IAquafriendService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinica_veterinaria/src/main/java/com/todocodeacademy/clinica_veterinaria/service/IVipService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinica_veterinaria/src/main/java/com/todocodeacademy/clinica_veterinaria/service/VipService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clinica_veterinaria/src/main/java/com/todocodeacademy/clinica_veterinaria/CorsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinica_veterinaria/src/main/java/com/todocodeacademy/clinica_veterinaria/CorsConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clinica_veterinaria/target/clinica_veterinaria-0.0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/clinica_veterinaria/target/clinica_veterinaria-0.0.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clinica_veterinaria/target/clinica_veterinaria-0.0.1.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/clinica_veterinaria/target/clinica_veterinaria-0.0.1.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clinica_veterinaria/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/clinica_veterinaria/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clinica_veterinaria/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/clinica_veterinaria/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,15 +51,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/githubCala&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/githubCala",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="clinvet" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="17" />
