@@ -3,7 +3,6 @@ package com.todocodeacademy.clinica_veterinaria.service;
 import com.todocodeacademy.clinica_veterinaria.model.Vip;
 import java.util.List;
 
-
 public interface IVipService {
 
     //CRUD METHOD

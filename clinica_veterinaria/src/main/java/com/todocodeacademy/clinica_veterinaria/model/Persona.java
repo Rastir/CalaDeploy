@@ -6,11 +6,15 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.OneToMany;
 import java.util.List;
+
+import lombok.AllArgsConstructor;
 import lombok.Getter;
+import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 @Getter @Setter
-
+@AllArgsConstructor
+@NoArgsConstructor
 @Entity
 public class Persona {
     @Id
@@ -28,28 +32,9 @@ public class Persona {
     private String preference;
     private String alergies;
     private String notes;
+    private String image;
         
     @OneToMany
     private List<Aqualover> aquaLevel;
-
-    public Persona() {
-    }
-
-    public Persona(Long id_persona, String name, String lastName, String email, int age, boolean isLal, int noVisit, String foodAndBeverages, String experience, String butler, String preference, String alergies, String notes, List<Aqualover> aquaLevel) {
-        this.id_persona = id_persona;
-        this.name = name;
-        this.lastName = lastName;
-        this.email = email;
-        this.age = age;
-        this.isLal = isLal;
-        this.noVisit = noVisit;
-        this.foodAndBeverages = foodAndBeverages;
-        this.experience = experience;
-        this.butler = butler;
-        this.preference = preference;
-        this.alergies = alergies;
-        this.notes = notes;
-        this.aquaLevel = aquaLevel;
-    }
 
 }
