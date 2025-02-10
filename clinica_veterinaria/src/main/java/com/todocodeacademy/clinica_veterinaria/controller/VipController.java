@@ -1,6 +1,5 @@
 package com.todocodeacademy.clinica_veterinaria.controller;
 
-import com.todocodeacademy.clinica_veterinaria.model.Persona;
 import com.todocodeacademy.clinica_veterinaria.model.Vip;
 import com.todocodeacademy.clinica_veterinaria.service.IVipService;
 import java.util.List;

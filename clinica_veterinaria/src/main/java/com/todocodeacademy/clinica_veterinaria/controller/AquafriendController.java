@@ -24,27 +24,26 @@ public class AquafriendController {
     }
 
     @GetMapping("/aquafriend/traer/{id}")
-    public Aquafriend findAquafriend(@PathVariable Long id_aquafriend){
-        return aquaServ.findAquafriend(id_aquafriend);
+    public Aquafriend findAquafriend(@PathVariable Long id){
+        return aquaServ.findAquafriend(id);
     }
 
     @PostMapping("/aquafriend/crear")
-    public String saveAquafriend (@RequestBody Aquafriend aquaf){
-        aquaServ.saveAquafriend(aquaf);
+    public String saveAquafriend (@RequestBody Aquafriend aquafriend){
+        aquaServ.saveAquafriend(aquafriend);
 
-        return "Aquafriend creado correctamente !";
+        return "Aquafriend creado correctamente";
     }
 
     @DeleteMapping("/aquafriend/borrar/{id_aquafriend}")
     public String deleteAquafriend (@PathVariable Long id_aquafriend){
         aquaServ.deleteAquafriend(id_aquafriend);
-
         return "Aquafriend borrado correctamente. ¡Yey!";
     }
 
     @PutMapping("/aquafriend/editar")
-    public String editAquafriend (@RequestBody Aquafriend aquaf){
-        aquaServ.editAquafriend(aquaf);
+    public String editAquafriend (@RequestBody Aquafriend aquafriend){
+        aquaServ.editAquafriend(aquafriend);
 
         return "Aquafriend editado correctamente !";
     }
