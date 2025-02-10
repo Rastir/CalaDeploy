@@ -1,4 +1,5 @@
 com\todocodeacademy\clinica_veterinaria\controller\DuenioController.class
+com\todocodeacademy\clinica_veterinaria\model\AquaAmigo.class
 com\todocodeacademy\clinica_veterinaria\repository\IVipRepository.class
 com\todocodeacademy\clinica_veterinaria\controller\VipController.class
 com\todocodeacademy\clinica_veterinaria\dto\MascoDuenioDTO.class
@@ -9,6 +10,7 @@ com\todocodeacademy\clinica_veterinaria\CorsConfig.class
 com\todocodeacademy\clinica_veterinaria\service\IDuenioService.class
 com\todocodeacademy\clinica_veterinaria\repository\IDuenioRepository.class
 com\todocodeacademy\clinica_veterinaria\repository\IPersonaRepository.class
+com\todocodeacademy\clinica_veterinaria\controller\AquaAmigoController.class
 com\todocodeacademy\clinica_veterinaria\repository\IMascotaRepository.class
 com\todocodeacademy\clinica_veterinaria\controller\MascotaController.class
 com\todocodeacademy\clinica_veterinaria\model\Duenio.class
@@ -16,6 +18,7 @@ com\todocodeacademy\clinica_veterinaria\controller\AqualoverController.class
 com\todocodeacademy\clinica_veterinaria\service\AquafriendService.class
 com\todocodeacademy\clinica_veterinaria\controller\PersonaController.class
 com\todocodeacademy\clinica_veterinaria\model\Aqualover.class
+com\todocodeacademy\clinica_veterinaria\service\AquaAmigoService.class
 com\todocodeacademy\clinica_veterinaria\service\AqualoverService.class
 com\todocodeacademy\clinica_veterinaria\repository\IAquafriendRepository.class
 com\todocodeacademy\clinica_veterinaria\model\Mascota.class
@@ -26,9 +29,11 @@ com\todocodeacademy\clinica_veterinaria\model\Aquafriend.class
 com\todocodeacademy\clinica_veterinaria\service\IAqualoverService.class
 com\todocodeacademy\clinica_veterinaria\service\DuenioService.class
 com\todocodeacademy\clinica_veterinaria\service\VipService.class
+com\todocodeacademy\clinica_veterinaria\service\IAquaAmigoService.class
 com\todocodeacademy\clinica_veterinaria\service\IAquafriendService.class
 com\todocodeacademy\clinica_veterinaria\service\PersonaService.class
 com\todocodeacademy\clinica_veterinaria\repository\IAqualoverRepository.class
+com\todocodeacademy\clinica_veterinaria\repository\IAquaAmigoRepository.class
 com\todocodeacademy\clinica_veterinaria\service\MascotaService.class
 com\todocodeacademy\clinica_veterinaria\service\IMascotaService.class
 com\todocodeacademy\clinica_veterinaria\service\IPersonaService.class
