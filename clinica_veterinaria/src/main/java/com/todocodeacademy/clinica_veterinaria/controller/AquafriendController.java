@@ -42,7 +42,7 @@ public class AquafriendController {
         return "Aquafriend borrado correctamente. ¡Yey!";
     }
 
-    @PutMapping
+    @PutMapping("/aquafriend/editar/")
     public String editAquafriend (@RequestBody Aquafriend aquaf){
         aquaServ.editAquafriend(aquaf);
 
