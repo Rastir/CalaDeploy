@@ -5,8 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b59c4c94-ab93-4fc2-b3ea-897158afd054" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/clinica_veterinaria/target/classes/com/todocodeacademy/clinica_veterinaria/controller/AquafriendController.class" beforeDir="false" afterPath="$PROJECT_DIR$/clinica_veterinaria/target/classes/com/todocodeacademy/clinica_veterinaria/controller/AquafriendController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clinica_veterinaria/target/classes/com/todocodeacademy/clinica_veterinaria/controller/VipController.class" beforeDir="false" afterPath="$PROJECT_DIR$/clinica_veterinaria/target/classes/com/todocodeacademy/clinica_veterinaria/controller/VipController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clinica_veterinaria/src/main/java/com/todocodeacademy/clinica_veterinaria/controller/AquaAmigoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clinica_veterinaria/src/main/java/com/todocodeacademy/clinica_veterinaria/model/AquaAmigo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clinica_veterinaria/src/main/java/com/todocodeacademy/clinica_veterinaria/model/Aquafriend.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinica_veterinaria/src/main/java/com/todocodeacademy/clinica_veterinaria/model/Aquafriend.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clinica_veterinaria/src/main/java/com/todocodeacademy/clinica_veterinaria/model/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinica_veterinaria/src/main/java/com/todocodeacademy/clinica_veterinaria/model/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clinica_veterinaria/src/main/java/com/todocodeacademy/clinica_veterinaria/model/Vip.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinica_veterinaria/src/main/java/com/todocodeacademy/clinica_veterinaria/model/Vip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clinica_veterinaria/src/main/java/com/todocodeacademy/clinica_veterinaria/repository/IAquaAmigoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clinica_veterinaria/src/main/java/com/todocodeacademy/clinica_veterinaria/service/AquaAmigoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clinica_veterinaria/src/main/java/com/todocodeacademy/clinica_veterinaria/service/IAquaAmigoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clinica_veterinaria/target/classes/com/todocodeacademy/clinica_veterinaria/controller/AquaAmigoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clinica_veterinaria/target/classes/com/todocodeacademy/clinica_veterinaria/model/AquaAmigo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clinica_veterinaria/target/classes/com/todocodeacademy/clinica_veterinaria/model/Aquafriend.class" beforeDir="false" afterPath="$PROJECT_DIR$/clinica_veterinaria/target/classes/com/todocodeacademy/clinica_veterinaria/model/Aquafriend.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clinica_veterinaria/target/classes/com/todocodeacademy/clinica_veterinaria/model/Persona.class" beforeDir="false" afterPath="$PROJECT_DIR$/clinica_veterinaria/target/classes/com/todocodeacademy/clinica_veterinaria/model/Persona.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clinica_veterinaria/target/classes/com/todocodeacademy/clinica_veterinaria/model/Vip.class" beforeDir="false" afterPath="$PROJECT_DIR$/clinica_veterinaria/target/classes/com/todocodeacademy/clinica_veterinaria/model/Vip.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clinica_veterinaria/target/classes/com/todocodeacademy/clinica_veterinaria/repository/IAquaAmigoRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clinica_veterinaria/target/classes/com/todocodeacademy/clinica_veterinaria/service/AquaAmigoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clinica_veterinaria/target/classes/com/todocodeacademy/clinica_veterinaria/service/IAquaAmigoService.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/clinica_veterinaria/target/clinica_veterinaria-0.0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/clinica_veterinaria/target/clinica_veterinaria-0.0.1.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/clinica_veterinaria/target/clinica_veterinaria-0.0.1.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/clinica_veterinaria/target/clinica_veterinaria-0.0.1.jar.original" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/clinica_veterinaria/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/clinica_veterinaria/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />

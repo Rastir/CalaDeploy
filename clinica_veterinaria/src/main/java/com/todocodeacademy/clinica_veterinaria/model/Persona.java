@@ -33,6 +33,9 @@ public class Persona {
     private String alergies;
     private String notes;
     private String image;
+    private String amaMoments;
+    private String firstVisit;
+    private String lastVisit;
         
     @OneToMany
     private List<Aqualover> aquaLevel;

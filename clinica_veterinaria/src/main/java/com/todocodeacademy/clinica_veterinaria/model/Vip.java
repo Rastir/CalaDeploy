@@ -29,6 +29,9 @@ public class Vip {
     private String alergies;
     private String notes;
     private String image;
+    private String amaMoments;
+    private String firstVisit;
+    private String lastVisit;
 
 
 }
